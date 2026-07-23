@@ -1,0 +1,9 @@
+chromadb
+fastapi
+uvicorn[standard]
+httpx
+pypdf
+matplotlib
+# for real models on Colab (optional locally):
+# sentence-transformers
+# openai
