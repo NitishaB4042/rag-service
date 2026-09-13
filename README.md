@@ -129,6 +129,3 @@ FastAPI service skeleton from a [rate limiter
 service](https://github.com/NitishaB4042/rate-limiter-service) and the PDF reading
 from the authenticity checker.
 
-## License
-
-MIT (or your choice).
